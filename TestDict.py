@@ -6,4 +6,4 @@ print d.keys()
 print d.values()
 del d['fenji']
 print d.items()
-d.clear()
+d.clear()11111

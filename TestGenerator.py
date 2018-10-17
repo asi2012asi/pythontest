@@ -6,8 +6,19 @@ def gen():
     yield 10
 
 for i in gen():
-    print i
+    print (i)
 
 g = (x for x in range(10))
-print g,type(g)
-print g.next(),g.next(),g.next()
+print (g,type(g))
+print (g.__next__())
+print (g.__next__())
+print (g.__next__())
+
+L = [x**2 for x in range(10)]
+print (L,type(L))
+
+#相当于下面
+# L = []
+# for x in range(10):
+#     L.append(x**2)
+# print (L,type(L))
