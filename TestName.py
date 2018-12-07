@@ -16,12 +16,4 @@ def lib_func_another(b):
 # def __main__():
 test = 101
 
-
-# pdb.set_trace()
-
-def outputString():
-    print(lib_func(test))
-    # print(lib_func_another(test))
-
-
-# outputString()
+print(lib_func(test))

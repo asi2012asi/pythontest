@@ -2,6 +2,7 @@
 import FirstModule as F
 # from ThirdModule import doSomething
 from ThirdModule import *
+import TestPrivateFunc
 
 
 F.laugh()
@@ -41,4 +42,7 @@ L1 = [1,2,3]
 L2 = L1
 L1[0] = 10
 print L2
+
+TestPrivateFunc._private_sound()
+TestPrivateFunc.talk()
 
