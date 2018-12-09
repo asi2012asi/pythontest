@@ -1,9 +1,9 @@
 # import FirstModule
-import FirstModule as F
+import TestPrivateFunc
 # from ThirdModule import doSomething
 from ThirdModule import *
-import TestPrivateFunc
 
+from zygote import FirstModule as F
 
 F.laugh()
 doSomething()

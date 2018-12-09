@@ -2,7 +2,8 @@
 '第一次使用单元测试 测试python'
 # author=luyaoming
 import unittest
-import TestName as target
+
+from zygote import TestName as target
 
 
 class TestTestName1(unittest.TestCase):
