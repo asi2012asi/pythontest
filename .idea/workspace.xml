@@ -2,45 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151ef006-8304-450d-b2d7-c4551bc0ad80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/FindLargestN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/findCommon.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/removeMultip.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/FirstModule.py" afterPath="$PROJECT_DIR$/zygote/FirstModule.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/zygote/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SecondModule.py" afterPath="$PROJECT_DIR$/zygote/SecondModule.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TeseClosure.py" afterPath="$PROJECT_DIR$/zygote/TeseClosure.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Test1.py" afterPath="$PROJECT_DIR$/zygote/Test1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestAttr.py" afterPath="$PROJECT_DIR$/zygote/TestAttr.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestBuildinFunction.py" afterPath="$PROJECT_DIR$/zygote/TestBuildinFunction.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestClass.py" afterPath="$PROJECT_DIR$/zygote/TestClass.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestDecorator.py" afterPath="$PROJECT_DIR$/zygote/TestDecorator.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestDict.py" afterPath="$PROJECT_DIR$/zygote/TestDict.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestFile.py" afterPath="$PROJECT_DIR$/zygote/TestFile.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestFunction.py" afterPath="$PROJECT_DIR$/zygote/TestFunction.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestGenerator.py" afterPath="$PROJECT_DIR$/zygote/TestGenerator.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestJinzhi.py" afterPath="$PROJECT_DIR$/zygote/TestJinzhi.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestList.py" afterPath="$PROJECT_DIR$/zygote/TestList.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestName.py" afterPath="$PROJECT_DIR$/zygote/TestName.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestNewFunctions.py" afterPath="$PROJECT_DIR$/zygote/TestNewFunctions.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestPass.py" afterPath="$PROJECT_DIR$/zygote/TestPass.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestPillow.py" afterPath="$PROJECT_DIR$/zygote/TestPillow.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestPrivateFunc.py" afterPath="$PROJECT_DIR$/zygote/TestPrivateFunc.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestReadRecord.py" afterPath="$PROJECT_DIR$/zygote/TestReadRecord.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestRuannian.py" afterPath="$PROJECT_DIR$/zygote/TestRuannian.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSorted.py" afterPath="$PROJECT_DIR$/zygote/TestSorted.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestString.py" afterPath="$PROJECT_DIR$/zygote/TestString.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestSysPath.py" afterPath="$PROJECT_DIR$/zygote/TestSysPath.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestTryExcept.py" afterPath="$PROJECT_DIR$/zygote/TestTryExcept.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestTurtle.py" afterPath="$PROJECT_DIR$/zygote/TestTurtle.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestWithAs.py" afterPath="$PROJECT_DIR$/zygote/TestWithAs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Testproperty.py" afterPath="$PROJECT_DIR$/zygote/Testproperty.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ThirdModule.py" afterPath="$PROJECT_DIR$/zygote/ThirdModule.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/User.py" afterPath="$PROJECT_DIR$/zygote/User.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/record.txt" afterPath="$PROJECT_DIR$/zygote/record.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/testTestName.py" afterPath="$PROJECT_DIR$/zygote/testTestName.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/useutf-8.py" afterPath="$PROJECT_DIR$/zygote/useutf-8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/CountMostCommon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/ItemGetterSorted.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/NamedSlice.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cookbook/Findline.py" afterPath="$PROJECT_DIR$/cookbook/Findline.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,14 +22,17 @@
     <SUITE FILE_PATH="coverage/untitled$TestClass.coverage" NAME="TestClass Coverage Results" MODIFIED="1511752410384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestAttr.coverage" NAME="TestAttr Coverage Results" MODIFIED="1526265482681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1511748206057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyFirstPythonProject$NamedSlice.coverage" NAME="NamedSlice Coverage Results" MODIFIED="1544322753862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookbook" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestSorted.coverage" NAME="TestSorted Coverage Results" MODIFIED="1538210193758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestClass.coverage" NAME="TestClass Coverage Results" MODIFIED="1515377104119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestJinzhi.coverage" NAME="TestJinzhi Coverage Results" MODIFIED="1515378485381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$SecondModule.coverage" NAME="SecondModule Coverage Results" MODIFIED="1538210675172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyFirstPythonProject$CountMostCommon.coverage" NAME="CountMostCommon Coverage Results" MODIFIED="1544326615581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookbook" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestBuildinFunction.coverage" NAME="TestBuildinFunction Coverage Results" MODIFIED="1515681304485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestList.coverage" NAME="TestList Coverage Results" MODIFIED="1511871960266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestFile.coverage" NAME="TestFile Coverage Results" MODIFIED="1539943763102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestName.coverage" NAME="TestName Coverage Results" MODIFIED="1515219230564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyFirstPythonProject$ItemGetterSorted.coverage" NAME="ItemGetterSorted Coverage Results" MODIFIED="1544327223204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookbook" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestPrivateFunc.coverage" NAME="TestPrivateFunc Coverage Results" MODIFIED="1538210660146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$Unittests_in_TestAttr_py.coverage" NAME="Unittests in TestAttr.py Coverage Results" MODIFIED="1516846065045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyFirstPythonProject$TestTryExcept.coverage" NAME="TestTryExcept Coverage Results" MODIFIED="1511961276155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -155,11 +123,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="removeMultip.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="removeMultip.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cookbook/removeMultip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="450">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NamedSlice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookbook/NamedSlice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountMostCommon.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookbook/CountMostCommon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemGetterSorted.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cookbook/ItemGetterSorted.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -185,16 +183,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zygote/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="record.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zygote/record.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -210,16 +198,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="useutf-8.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zygote/useutf-8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -294,6 +272,9 @@
         <option value="$PROJECT_DIR$/cookbook/Findline.py" />
         <option value="$PROJECT_DIR$/cookbook/findCommon.py" />
         <option value="$PROJECT_DIR$/cookbook/removeMultip.py" />
+        <option value="$PROJECT_DIR$/cookbook/NamedSlice.py" />
+        <option value="$PROJECT_DIR$/cookbook/CountMostCommon.py" />
+        <option value="$PROJECT_DIR$/cookbook/ItemGetterSorted.py" />
       </list>
     </option>
   </component>
@@ -408,64 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.removeMultip">
-    <configuration default="false" name="TestFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zygote/TestFile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Findline" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/Findline.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FindLargestN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/FindLargestN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ItemGetterSorted">
     <configuration default="false" name="findCommon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -499,6 +423,63 @@
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/removeMultip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NamedSlice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/NamedSlice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CountMostCommon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/CountMostCommon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ItemGetterSorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/ItemGetterSorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -653,19 +634,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.TestFile" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Findline" />
-      <item index="2" class="java.lang.String" itemvalue="Python.FindLargestN" />
-      <item index="3" class="java.lang.String" itemvalue="Python.findCommon" />
-      <item index="4" class="java.lang.String" itemvalue="Python.removeMultip" />
+      <item index="0" class="java.lang.String" itemvalue="Python.findCommon" />
+      <item index="1" class="java.lang.String" itemvalue="Python.removeMultip" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NamedSlice" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CountMostCommon" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ItemGetterSorted" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.removeMultip" />
-        <item index="1" class="java.lang.String" itemvalue="Python.findCommon" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FindLargestN" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Findline" />
-        <item index="4" class="java.lang.String" itemvalue="Python.TestFile" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ItemGetterSorted" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CountMostCommon" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NamedSlice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.removeMultip" />
+        <item index="4" class="java.lang.String" itemvalue="Python.findCommon" />
       </list>
     </recent_temporary>
   </component>
@@ -736,7 +717,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3317684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.261944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18121912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -764,27 +745,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/lib/python3.7/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="2049" column="8" lean-forward="false" selection-start-line="2049" selection-start-column="8" selection-end-line="2049" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.7/site-packages/PIL/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zygote/TestName.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2685">
@@ -821,7 +781,7 @@
         <state relative-caret-position="135">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#41#80#0" expanded="true" />
+            <element signature="e#41#80#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1104,8 +1064,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cookbook/removeMultip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="27" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="450">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/NamedSlice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/CountMostCommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/ItemGetterSorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
           <folding />
         </state>
       </provider>
